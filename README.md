@@ -15,3 +15,11 @@ We take privacy seriously. Data is only used for the purposes described above an
 ## Contact
 For questions or support, contact us at: andrew.creedon@proscia.com# Creedon-clearwater
 App dev
+## Terms and Conditions
+By using Creedon's Health Cholesterol, you agree to the following:
+- This app accesses your health data (labs and vitals) solely to help you track and manage your cholesterol.
+- Your data is never sold or shared with third parties.
+- You may revoke access to your data at any time.
+- This app is intended for informational purposes only and is not a substitute for professional medical advice.
+
+For questions, contact andrew.creedon@proscia.com
